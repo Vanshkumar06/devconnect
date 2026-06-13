@@ -1,11 +1,19 @@
-# devconnect
+# DevConnect
 
+A full-stack social media app built using the MERN stack.
 
-A full-stack developer collaboration platform built using React, Node.js, MongoDB, and Socket.IO.
-## Current Features
-- Register/Login
+## Features
 - JWT Authentication
 - Protected Routes
-- Password Hashing
-- MongoDB Integration
+- User Login/Register
+- Create Posts
+- MongoDB Database
 - React Frontend
+- Express Backend
+
+## Tech Stack
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT
